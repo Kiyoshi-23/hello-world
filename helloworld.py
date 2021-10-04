@@ -6,4 +6,4 @@ reach_out = "You can react me at my discord: 良いボイ#1689"
 
 print(info)
 print(follow)
-print(react_out)
+print(reach_out)
