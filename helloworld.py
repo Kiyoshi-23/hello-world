@@ -14,12 +14,12 @@ print(reach_out)
 # by using a variable to generate the code and using it, it will print out whatever is defined the variable. more complex, but still works!
 # and also, when using a defined variable inside of a print function, you won't need the '' because the text is stored inside the variable you created. 
 
-#check out more in @moonyaims python learner guide. 
+# check out more in @moonyaims python learner guide. 
 
 link = https://github.com/moonyaim/python-learner-guide
 
 print(link)
 
-# very simple code for beginner, but works decently.
+# very simple code for beginner, but works as expected to.
 
 
