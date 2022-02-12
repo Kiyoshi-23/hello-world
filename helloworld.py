@@ -13,3 +13,10 @@ print(reach_out)
 # this code also introduces comments, which are started by an "#." They don't affect your code, and will be used to explain a bit more about any given line of code.
 # by using a variable to generate the code and using it, it will print out whatever is defined the variable. more complex, but still works!
 
+#check out more in @moonyaims python learner guide. 
+
+link = https://github.com/moonyaim/python-learner-guide
+
+print(link)
+
+
