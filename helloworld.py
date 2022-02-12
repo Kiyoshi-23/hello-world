@@ -12,11 +12,14 @@ print(reach_out)
 # don't get it just yet? just copy the text above, replace the "Hello World" text with your own, and then run it!
 # this code also introduces comments, which are started by an "#." They don't affect your code, and will be used to explain a bit more about any given line of code.
 # by using a variable to generate the code and using it, it will print out whatever is defined the variable. more complex, but still works!
+# and also, when using a defined variable inside of a print function, you won't need the '' because the text is stored inside the variable you created. 
 
 #check out more in @moonyaims python learner guide. 
 
 link = https://github.com/moonyaim/python-learner-guide
 
 print(link)
+
+# very simple code for beginner, but works decently.
 
 
